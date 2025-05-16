@@ -1,0 +1,9 @@
+# Python virtual environments
+rocket-env5/
+venv/
+.env/
+
+# Data & model files
+expert_data*.json
+*.pth
+assets/
